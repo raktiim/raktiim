@@ -1,16 +1,45 @@
-## Hi there 👋
+👋 Hey, I'm Raktim!
 
-<!--
-**raktiim/raktiim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 🐍 Python Learner | 🎮 Aspiring Indie Game Developer
 
-Here are some ideas to get you started:
+I'm currently learning programming from the ground up and building my skills step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I'm Learning
+
+- 🐍 Python
+- 💻 Programming fundamentals
+- 🎮 Game development
+- 🌱 Problem solving & logical thinking
+- 🔧 Git & GitHub
+
+🎮 My Goal
+
+My long-term goal is to become an indie game developer and eventually build my own game studio.
+
+I'm especially interested in creating PC games, experimenting with game engines, and turning ideas into playable experiences.
+
+📚 Currently
+
+BCA
+ ↓
+Programming Fundamentals
+ ↓
+Python
+ ↓
+Game Development
+ ↓
+Indie Game Studio 🎮
+
+🛠️ Tech I'm Exploring
+
+"Python" "Git" "GitHub" "Godot" "GDScript"
+
+📈 My Philosophy
+
+«Learn slowly. Build consistently. Keep improving.»
+
+I'm still at the beginning of my journey, but every project is one step closer to the developer I want to become.
+
+---
+
+⭐ Thanks for visiting my profile!
